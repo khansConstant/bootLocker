@@ -1,1 +1,1 @@
-https://khansconstant.github.io/bootLocker/
+https://khansconstant.github.io/
